@@ -41,7 +41,7 @@ def display_map():
     with open("index.html", "r") as file:
         html_content = file.read()
 
-    name = "I Putu Andreana Wirawan - D0221068 (SIG Informatika B)"
+    name = "intan sari b - D0221071 (SIG Informatika B)"
 
     title_top = f"""
     <div style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 9999; background-color: white; padding: 5px 10px; border-radius: 5px;">
